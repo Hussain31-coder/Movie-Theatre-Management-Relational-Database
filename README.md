@@ -50,21 +50,5 @@ SELECT
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-* MySQL Server (v8.0+)
-* MySQL Workbench
-
-### Installation
-* 1. Clone this repository:
-   ```bash
-   git clone
- https://github.com/Hussain31-coder/Movie-Theatre-Management-Relational-Database
-    ```
-* 2. Open **MySQL Workbench**.
-* 3. Import and execute the initialization script located in `/database/schema.sql` to generate the tables.
-* 4. Populate the database by running `/database/seed_data.sql`.
-* 5. Browse and test the operational analytics inside `/queries/business_reports.sql`.
 
 ---
